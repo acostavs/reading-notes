@@ -11,4 +11,4 @@ Stuff about growth mindset
 - Reminder 2
 - Reminder 3
 
-Link to my github portfolio: https://github.com/acostavs
+[Link to my github portfolio] (https://github.com/acostavs)
