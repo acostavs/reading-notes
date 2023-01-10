@@ -5,11 +5,11 @@ Hi, I'm *Richard Acosta*
 
 Having a growth mindset means believing that with hard work and persistence, you can learn anything.
 
-To stay in a growth mindest we can choose to go the extra mile, we can choose to be quick to praise and slow to criticize, and we can choose to seek first to understand.
+To stay in a growth mindest we can:
 
-- Reminder 1
-- Reminder 2
-- Reminder 3
+- Choose to go the extra mile
+- We can choose to be quick to praise and slow to criticize
+- we can choose to seek first to understand
 
 [Link to my github portfolio](https://github.com/acostavs)
 
