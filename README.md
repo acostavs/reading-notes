@@ -1,5 +1,12 @@
 # reading-notes
+
 notebook
+
+Code Fellows
+
+## Table of Contents
+
+[class 2](./learning-markdown.md)
 
 Hi, I'm *Richard Acosta*
 
