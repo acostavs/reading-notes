@@ -1,6 +1,4 @@
-# reading-notes
-
-Notebook
+# Reading Notes
 
 ## Table of Contents
 
