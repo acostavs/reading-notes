@@ -1,0 +1,12 @@
+p.header-text {
+    color: red;
+    font-weight: bold;
+}
+
+.show-border {
+    border: 2px solid black;
+}
+
+.bg-dark {
+    background-color: darkblue;
+}
