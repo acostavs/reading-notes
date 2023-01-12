@@ -6,7 +6,9 @@ Code Fellows
 
 ## Table of Contents
 
-[class 2](./learning-markdown.md)
+[Read: 01 - Learning Markdown](./learning-markdown.md)
+
+[Read: 02 - The Coder's Computer](./the-coders-computer.md)
 
 Hi, I'm *Richard Acosta*
 
