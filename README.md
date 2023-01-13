@@ -14,7 +14,7 @@
 
 [Read: 05 - Design web pages with CSS](./design-and-css.md)
 
-[Read: 06 - Dynamic web pages with JavaScript](./dynamic-js.md)
+[Read: 06 - Dynamic web pages with JavaScript](./dynamic-js.html)
 
 [Read: 07 - Programming with JavaScript](./programming-js.md)
 
