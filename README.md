@@ -16,7 +16,7 @@
 
 [Read: 06 - Dynamic web pages with JavaScript](./dynamic-js.html)
 
-[Read: 07 - Programming with JavaScript](./programming-js.md)
+[Read: 07 - Programming with JavaScript](./programming-js.html)
 
 [Read: 08 - Operators and Loops](./operators-and-loops.md)
 
