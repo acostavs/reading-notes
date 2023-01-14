@@ -18,7 +18,7 @@
 
 [Read: 07 - Programming with JavaScript](./programming-js.html)
 
-[Read: 08 - Operators and Loops](./operators-and-loops.md)
+[Read: 08 - Operators and Loops](./operators-and-loops.html)
 
 ### Code 201 Reading Notes
 
