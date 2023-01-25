@@ -22,35 +22,35 @@
 
 ### Code 201 Reading Notes
 
-[Read: 01 -](../../code-201/read-one.md)
+[Read: 01 -](../../code-201/201-notes/class-01.md)
 
-[Read: 02 -](../../code-201/read-two.md)
+[Read: 02 -](../../code-201/201-notes/class-02.md)
 
-[Read: 03 -](../../code-201/read-three.md)
+[Read: 03 -](../../code-201/201-notes/class-03.md)
 
-[Read: 04 -](../../code-201/read-four.md)
+[Read: 04 -](../../code-201/201-notes/class-04.md)
 
-[Read: 05 -](../../code-201/read-five.md)
+[Read: 05 -](../../code-201/201-notes/class-05.md)
 
-[Read: 06 -](../../code-201/read-six.md)
+[Read: 06 -](../../code-201/201-notes/class-06.md)
 
-[Read: 07 -](../../code-201/read-seven.md)
+[Read: 07 -](../../code-201/201-notes/class-07.md)
 
-[Read: 08 -](../../code-201/read-eight.md)
+[Read: 08 -](../../code-201/201-notes/class-08.md)
 
-[Read: 09 -](../../code-201/read-nine.md)
+[Read: 09 -](../../code-201/201-notes/class-09.md)
 
-[Read: 10 -](../../code-201/read-ten.md)
+[Read: 10 -](../../code-201/201-notes/class-10.md)
 
-[Read: 11 -](../../code-201/read-eleven.md)
+[Read: 11 -](../../code-201/201-notes/class-11.md)
 
-[Read: 12 -](../../code-201/read-twelve.md)
+[Read: 12 -](../../code-201/201-notes/class-12.md)
 
-[Read: 13 -](../../code-201/read-thirteen.md)
+[Read: 13 -](../../code-201/201-notes/class-13.md)
 
-[Read: 14 -](../../code-201/read-fourteen.md)
+[Read: 14 -](../../code-201/201-notes/class-14.md)
 
-[Read: 15 -](../../code-201/read-fifteen.md)
+[Read: 15 -](../../code-201/201-notes/class-15.md)
 
 Hi, I'm *Richard Acosta*
 This website is going to be a note writing tool for my time in Code Fellows
